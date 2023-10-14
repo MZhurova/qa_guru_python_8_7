@@ -1,7 +1,6 @@
 from utils import RESOURCES_PATH, TMP_PATH
 from zipfile import ZipFile
 import os
-import datetime
 
 def test_zipfile():
     if not os.path.exists(TMP_PATH):
