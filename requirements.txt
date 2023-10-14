@@ -1,0 +1,6 @@
+pytest~=7.4.2
+selene~=2.0.0.rc4
+webdriver-manager==4.0.1
+pypdf
+xlrd
+openpyxl
